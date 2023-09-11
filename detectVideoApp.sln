@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "detectVideoApp", "detectVideoApp\detectVideoApp.csproj", "{6A5DF43D-556D-4843-9524-B75BA7481A3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7CC76BE2-AD56-4110-93DD-300A91D5CF8E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A5DF43D-556D-4843-9524-B75BA7481A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5DF43D-556D-4843-9524-B75BA7481A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5DF43D-556D-4843-9524-B75BA7481A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5DF43D-556D-4843-9524-B75BA7481A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B6DCC8B-D8AC-4AE6-AF59-F57CF7C45AB7}
+	EndGlobalSection
+EndGlobal
